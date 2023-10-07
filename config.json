@@ -4,20 +4,9 @@
 		"name": "LuckPool",
         	"url": "stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://us.cloudiko.io:9999",
-		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://us.cloudiko.io:9999",
-		"timeout": 150
-	}
-	],
+	}],
 	"user": "RAvM3xHppFJ1kuQN4VwvJhrvKbCzVqZHkF.PHONE_FARM",
-	"pass": "x",
+	"pass": "c=RGN",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
