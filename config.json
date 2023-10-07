@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
 	}],
-	"user": "RAvM3xHppFJ1kuQN4VwvJhrvKbCzVqZHkF.PHONE_FARM",
+	"user": "RAvM3xHppFJ1kuQN4VwvJhrvKbCzVqZHkF",
 	"pass": "c=RGN",
 	"algo": "verus",
 	"threads": 8,
